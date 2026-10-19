@@ -3,12 +3,13 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Records](https://img.shields.io/badge/records-2%2C116-brightgreen)]()
 [![Language](https://img.shields.io/badge/lang-Arabic%20%E2%80%A2%20Chinese%20%E2%80%A2%20English-blue)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF?logo=kaggle)](https://www.kaggle.com/datasets/hetaobaba/tcm-arabic-chinese-bilingual-dataset)
 [![Listed on awesome-public-datasets](https://img.shields.io/badge/listed-awesome--public--datasets-orange)](https://github.com/awesomedata/apd-core/pull/895)
 
 ## 📦 Indexes & Mirrors
 
 - **awesome-public-datasets (apd-core)**: [PR #895](https://github.com/awesomedata/apd-core/pull/895) — pending review
-- **Kaggle**: _coming soon — will add badge once published_
+- **Kaggle**: [https://www.kaggle.com/datasets/hetaobaba/tcm-arabic-chinese-bilingual-dataset](https://www.kaggle.com/datasets/hetaobaba/tcm-arabic-chinese-bilingual-dataset)
 - **Publisher page**: [TCMHub open-data](https://aicatalogx.com/ar/open-data)
 
 
