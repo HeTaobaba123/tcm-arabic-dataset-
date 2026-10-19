@@ -1,5 +1,17 @@
 # TCM Arabic Dataset — Traditional Chinese Medicine in Arabic & Chinese
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Records](https://img.shields.io/badge/records-2%2C116-brightgreen)]()
+[![Language](https://img.shields.io/badge/lang-Arabic%20%E2%80%A2%20Chinese%20%E2%80%A2%20English-blue)]()
+[![Listed on awesome-public-datasets](https://img.shields.io/badge/listed-awesome--public--datasets-orange)](https://github.com/awesomedata/apd-core/pull/895)
+
+## 📦 Indexes & Mirrors
+
+- **awesome-public-datasets (apd-core)**: [PR #895](https://github.com/awesomedata/apd-core/pull/895) — pending review
+- **Kaggle**: _coming soon — will add badge once published_
+- **Publisher page**: [TCMHub open-data](https://aicatalogx.com/ar/open-data)
+
+
 > The first open **Arabic–Chinese Traditional Chinese Medicine (TCM) dataset**: 1,029 herbs, 409 classical formulas, 499 acupoints, 129 classical texts, and 50 PubMed-cited clinical evidence entries — each with **Arabic names, Arabic descriptions, and unique Arabic-medicine cultural relations**.
 
 [![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
